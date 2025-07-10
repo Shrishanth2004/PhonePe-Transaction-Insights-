@@ -1,5 +1,4 @@
 # PhonePe-Transaction-Insights-
-# 📊 PhonePe Transaction Insights
 
 A data analytics and visualization project built using PhonePe Pulse public data. The project extracts, transforms, stores, and visualizes UPI transaction patterns across India from 2018 to 2022 using PostgreSQL, Streamlit, and Plotly.
 
